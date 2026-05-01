@@ -13,4 +13,4 @@ Dit project gebruikt een publieke mock-dataset van Kaggle over fondsenwerving en
 Bron: [Mock Nonprofit Fundraising Data op Kaggle](https://www.kaggle.com/datasets/grantstancliff/mock-nonprofit-fundraising-data)
 
 ## Status
-Notebook en projectbestanden worden nog toegevoegd.
+Notebook en andere bestanden worden dit weekend toegevoegd.
