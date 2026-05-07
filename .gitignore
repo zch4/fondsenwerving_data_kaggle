@@ -1,0 +1,7 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+exports/
+data/bronze/
+data/silver/
+data/gold/
+*.pyc
